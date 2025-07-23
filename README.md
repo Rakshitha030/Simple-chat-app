@@ -9,7 +9,7 @@ This is a basic **terminal-based chat application** built using **C programming*
 * Uses **TCP/IP socket programming**
 * Multithreaded handling for real-time message exchange
 
-#### ⚙ Technologies Used:
+####  Technologies Used:
 
 * C Language
 * Socket Programming (POSIX)
